@@ -5,17 +5,17 @@
 */
 
 body {
-  background-color: hsl(94, 95%, 35%);
+  background-color: hsl(94deg, 95%, 35%);
 }
 
 h1 {
-  background-color: #08B07C;
-  color: #0014A8;
+  background-color: #08b07c;
+  color: #0014a8;
   text-align: center;
   padding: 40px;
   font-size: 40px;
 }
 
 p {
-  color: #0014A8;
+  color: #0014a8;
 }
