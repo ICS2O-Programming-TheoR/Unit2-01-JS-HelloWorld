@@ -1,0 +1,21 @@
+/* Created by: Theo Rafuse
+* Created on: Mar 2023
+* This css file defines the style of index.html
+* Unit2-01-JS-HelloWorld
+*/
+
+body {
+  background-color: hsl(94, 95%, 35%);
+}
+
+h1 {
+  background-color: #08B07C;
+  color: #0014A8;
+  text-align: center;
+  padding: 40px;
+  font-size: 40px;
+}
+
+p {
+  color: #0014A8;
+}
